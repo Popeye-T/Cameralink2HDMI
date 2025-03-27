@@ -1,0 +1,16 @@
+<?xml version="1" encoding="UTF-8"?>
+<!DOCTYPE gowin-fpga-project>
+<Project>
+    <Template>FPGA</Template>
+    <Version>5</Version>
+    <Device name="GW1N-9C" pn="GW1N-LV9QN88C7/I6">gw1n9c-073</Device>
+    <FileList>
+        <File path="src/HDMI_Top.v" type="file.verilog" enable="1"/>
+        <File path="src/VGA_Ctrl.v" type="file.verilog" enable="1"/>
+        <File path="src/dvi_tx/dvi_tx.v" type="file.verilog" enable="1"/>
+        <File path="src/gowin_clkdiv/gowin_clkdiv.v" type="file.verilog" enable="1"/>
+        <File path="src/gowin_rpll/gowin_rpll.v" type="file.verilog" enable="1"/>
+        <File path="src/1_HDMI.cst" type="file.cst" enable="1"/>
+        <File path="src/1_HDMI.rao" type="file.gao" enable="1"/>
+    </FileList>
+</Project>
