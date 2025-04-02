@@ -1,0 +1,191 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/software_tzh/questasim64_10.6c/examples
+T_opt
+!s110 1732516180
+ViJ[<W9i@[@9_]48=Z@fzX1
+Z1 04 12 4 work hdmi_sim_top fast 0
+=1-08bfb883c235-67441953-2b4-3500
+Z2 o-quiet -auto_acc_if_foreign -work work -L gowin_2a
+Z3 tCvgOpt 0
+n@_opt
+Z4 OL;O;10.6c;65
+R0
+T_opt1
+!s110 1732515872
+V@;:8AiOMEVZ7M[U@F=b9A2
+04 11 4 work vga_sim_top fast 0
+=1-08bfb883c235-67441820-de-8d38
+R2
+R3
+n@_opt1
+R4
+R0
+T_opt2
+!s110 1732516415
+VjUnE7<nWbAg5lhN=k_i:j0
+R1
+=1-08bfb883c235-67441a3e-357-93d4
+o-quiet -auto_acc_if_foreign -work work +acc -L gowin_2a
+R3
+n@_opt2
+R4
+vGowin_CLKDIV
+Z5 !s110 1732516173
+!i10b 1
+!s100 ade3HO0Z1GDLniY[>5B7V3
+INIZ`Xi8zeg6YmZ`jch:e>2
+Z6 VDg1SIo80bB@j0V0VzS_@n1
+Z7 dD:/workspace/GoWin/Demo/1_HDMI/1_HDMI/sim
+w1732511474
+8D:/workspace/GoWin/Demo/1_HDMI/1_HDMI/src/gowin_clkdiv/gowin_clkdiv.v
+FD:/workspace/GoWin/Demo/1_HDMI/1_HDMI/src/gowin_clkdiv/gowin_clkdiv.v
+Z8 L0 10
+Z9 OL;L;10.6c;65
+r1
+!s85 0
+31
+Z10 !s108 1732516173.000000
+!s107 D:/workspace/GoWin/Demo/1_HDMI/1_HDMI/src/gowin_clkdiv/gowin_clkdiv.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/workspace/GoWin/Demo/1_HDMI/1_HDMI/src/gowin_clkdiv/gowin_clkdiv.v|
+!i113 0
+Z11 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R3
+n@gowin_@c@l@k@d@i@v
+vGowin_rPLL
+R5
+!i10b 1
+!s100 2nV4e6:D[bG:7?TQ5hGF@2
+IhOfRjIKi;z<_F^^`31X6Y2
+R6
+R7
+w1732512120
+8D:/workspace/GoWin/Demo/1_HDMI/1_HDMI/src/gowin_rpll/gowin_rpll.v
+FD:/workspace/GoWin/Demo/1_HDMI/1_HDMI/src/gowin_rpll/gowin_rpll.v
+R8
+R9
+r1
+!s85 0
+31
+R10
+!s107 D:/workspace/GoWin/Demo/1_HDMI/1_HDMI/src/gowin_rpll/gowin_rpll.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/workspace/GoWin/Demo/1_HDMI/1_HDMI/src/gowin_rpll/gowin_rpll.v|
+!i113 0
+R11
+R3
+n@gowin_r@p@l@l
+vHDMI_Ctrl
+R5
+!i10b 1
+!s100 >TeM6EanlEGFazBR^8a^W2
+Ifo6k=Q8oaPJ_Zf<DJWIRD2
+R6
+R7
+w1732510644
+8D:/workspace/GoWin/Demo/1_HDMI/1_HDMI/src/dvi_tx/dvi_tx.vo
+FD:/workspace/GoWin/Demo/1_HDMI/1_HDMI/src/dvi_tx/dvi_tx.vo
+L0 8
+R9
+r1
+!s85 0
+31
+R10
+!s107 D:/workspace/GoWin/Demo/1_HDMI/1_HDMI/src/dvi_tx/dvi_tx.vo|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/workspace/GoWin/Demo/1_HDMI/1_HDMI/src/dvi_tx/dvi_tx.vo|
+!i113 0
+R11
+R3
+n@h@d@m@i_@ctrl
+vhdmi_sim_top
+R5
+!i10b 1
+!s100 [2O84PYI@aiERAaF5VVR91
+IiI1X`zAA?;Y89Zobbo<zN2
+R6
+R7
+w1732515745
+8D:/workspace/GoWin/Demo/1_HDMI/1_HDMI/src/sim/hdmi_sim_top.v
+FD:/workspace/GoWin/Demo/1_HDMI/1_HDMI/src/sim/hdmi_sim_top.v
+L0 2
+R9
+r1
+!s85 0
+31
+R10
+!s107 D:/workspace/GoWin/Demo/1_HDMI/1_HDMI/src/sim/hdmi_sim_top.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/workspace/GoWin/Demo/1_HDMI/1_HDMI/src/sim/hdmi_sim_top.v|
+!i113 0
+R11
+R3
+vHDMI_Top
+R5
+!i10b 1
+!s100 `_O>`M=8KM>=H]:37ZEZ]3
+I`2Zc5KkZI?Jn9Wf9U9CN=3
+R6
+R7
+w1732516162
+8D:/workspace/GoWin/Demo/1_HDMI/1_HDMI/src/HDMI_Top.v
+FD:/workspace/GoWin/Demo/1_HDMI/1_HDMI/src/HDMI_Top.v
+L0 1
+R9
+r1
+!s85 0
+31
+R10
+!s107 D:/workspace/GoWin/Demo/1_HDMI/1_HDMI/src/HDMI_Top.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/workspace/GoWin/Demo/1_HDMI/1_HDMI/src/HDMI_Top.v|
+!i113 0
+R11
+R3
+n@h@d@m@i_@top
+vVGA_Ctrl
+R5
+!i10b 1
+!s100 YCHOH@XGe3hn@X[a^iOYW0
+ITU`6S2o7zOFhK5_<ed]Al2
+R6
+R7
+w1732512783
+8D:/workspace/GoWin/Demo/1_HDMI/1_HDMI/src/VGA_Ctrl.v
+FD:/workspace/GoWin/Demo/1_HDMI/1_HDMI/src/VGA_Ctrl.v
+L0 1
+R9
+r1
+!s85 0
+31
+R10
+!s107 D:/workspace/GoWin/Demo/1_HDMI/1_HDMI/src/VGA_Ctrl.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/workspace/GoWin/Demo/1_HDMI/1_HDMI/src/VGA_Ctrl.v|
+!i113 0
+R11
+R3
+n@v@g@a_@ctrl
+vvga_sim_top
+R5
+!i10b 1
+!s100 jE@hl_^;gOhi[ZjN6>;=A1
+IN4U_[LOUh?IZMJLYbEfoJ2
+R6
+R7
+w1732513622
+8D:/workspace/GoWin/Demo/1_HDMI/1_HDMI/src/sim/vga_sim_top.v
+FD:/workspace/GoWin/Demo/1_HDMI/1_HDMI/src/sim/vga_sim_top.v
+L0 2
+R9
+r1
+!s85 0
+31
+R10
+!s107 D:/workspace/GoWin/Demo/1_HDMI/1_HDMI/src/sim/vga_sim_top.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/workspace/GoWin/Demo/1_HDMI/1_HDMI/src/sim/vga_sim_top.v|
+!i113 0
+R11
+R3

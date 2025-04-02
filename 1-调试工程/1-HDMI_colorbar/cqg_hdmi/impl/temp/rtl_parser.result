@@ -1,0 +1,54 @@
+[
+ {
+  "InstFile" : "E:/FPGA/GaoYun/cqg_hdmi/cqg_hdmi/src/HDMI_Top.v",
+  "InstLine" : 1,
+  "InstName" : "HDMI_Top",
+  "ModuleFile" : "E:/FPGA/GaoYun/cqg_hdmi/cqg_hdmi/src/HDMI_Top.v",
+  "ModuleLine" : 1,
+  "ModuleName" : "HDMI_Top",
+  "SubInsts" : [
+   {
+    "InstFile" : "E:/FPGA/GaoYun/cqg_hdmi/cqg_hdmi/src/HDMI_Top.v",
+    "InstLine" : 21,
+    "InstName" : "Gowin_rPLL_inst",
+    "ModuleFile" : "E:/FPGA/GaoYun/cqg_hdmi/cqg_hdmi/src/gowin_rpll/gowin_rpll.v",
+    "ModuleLine" : 10,
+    "ModuleName" : "Gowin_rPLL"
+   },
+   {
+    "InstFile" : "E:/FPGA/GaoYun/cqg_hdmi/cqg_hdmi/src/HDMI_Top.v",
+    "InstLine" : 28,
+    "InstName" : "Gowin_CLKDIV_inst",
+    "ModuleFile" : "E:/FPGA/GaoYun/cqg_hdmi/cqg_hdmi/src/gowin_clkdiv/gowin_clkdiv.v",
+    "ModuleLine" : 10,
+    "ModuleName" : "Gowin_CLKDIV"
+   },
+   {
+    "InstFile" : "E:/FPGA/GaoYun/cqg_hdmi/cqg_hdmi/src/HDMI_Top.v",
+    "InstLine" : 34,
+    "InstName" : "VGA_Ctrl_inst",
+    "ModuleFile" : "E:/FPGA/GaoYun/cqg_hdmi/cqg_hdmi/src/VGA_Ctrl.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "VGA_Ctrl"
+   },
+   {
+    "InstFile" : "E:/FPGA/GaoYun/cqg_hdmi/cqg_hdmi/src/HDMI_Top.v",
+    "InstLine" : 47,
+    "InstName" : "HDMI_Ctrl_inst",
+    "ModuleFile" : "E:/FPGA/GaoYun/cqg_hdmi/cqg_hdmi/src/dvi_tx/dvi_tx.v",
+    "ModuleLine" : 1044,
+    "ModuleName" : "HDMI_Ctrl",
+    "SubInsts" : [
+     {
+      "InstFile" : "E:/FPGA/GaoYun/cqg_hdmi/cqg_hdmi/src/dvi_tx/dvi_tx.v",
+      "InstLine" : 1075,
+      "InstName" : "rgb2dvi_inst",
+      "ModuleFile" : "E:/FPGA/GaoYun/cqg_hdmi/cqg_hdmi/src/dvi_tx/dvi_tx.v",
+      "ModuleLine" : 10,
+      "ModuleName" : "~rgb2dvi.HDMI_Ctrl"
+     }
+    ]
+   }
+  ]
+ }
+]

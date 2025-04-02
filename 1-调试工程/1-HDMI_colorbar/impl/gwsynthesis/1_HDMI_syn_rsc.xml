@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module name="HDMI_Top" Lut="1">
+    <SubModule name="gw_gao_inst_0" Register="256" Alu="10" Lut="348" Bsram="1"/>
+    <SubModule name="Gowin_rPLL_inst"/>
+    <SubModule name="Gowin_CLKDIV_inst"/>
+    <SubModule name="VGA_Ctrl_inst" Register="29" Lut="60"/>
+    <SubModule name="HDMI_Ctrl_inst" Register="50" Alu="69" Lut="220"/>
+</Module>

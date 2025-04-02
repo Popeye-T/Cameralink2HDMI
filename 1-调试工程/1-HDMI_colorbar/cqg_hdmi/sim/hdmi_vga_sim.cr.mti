@@ -1,0 +1,36 @@
+D:/workspace/GoWin/Demo/1_HDMI/1_HDMI/src/gowin_rpll/gowin_rpll.v {1 {vlog -work work -vopt -stats=none D:/workspace/GoWin/Demo/1_HDMI/1_HDMI/src/gowin_rpll/gowin_rpll.v
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module Gowin_rPLL
+
+Top level modules:
+	Gowin_rPLL
+
+} {} {}} D:/workspace/GoWin/Demo/1_HDMI/1_HDMI/src/VGA_Ctrl.v {1 {vlog -work work -vopt -stats=none D:/workspace/GoWin/Demo/1_HDMI/1_HDMI/src/VGA_Ctrl.v
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module VGA_Ctrl
+
+Top level modules:
+	VGA_Ctrl
+
+} {} {}} D:/workspace/GoWin/Demo/1_HDMI/1_HDMI/src/dvi_tx/dvi_tx.vo {1 {vlog -work work -vopt -stats=none D:/workspace/GoWin/Demo/1_HDMI/1_HDMI/src/dvi_tx/dvi_tx.vo
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module HDMI_Ctrl
+
+Top level modules:
+	HDMI_Ctrl
+
+} {} {}} D:/workspace/GoWin/Demo/1_HDMI/1_HDMI/src/gowin_clkdiv/gowin_clkdiv.v {1 {vlog -work work -vopt -stats=none D:/workspace/GoWin/Demo/1_HDMI/1_HDMI/src/gowin_clkdiv/gowin_clkdiv.v
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module Gowin_CLKDIV
+
+Top level modules:
+	Gowin_CLKDIV
+
+} {} {}} D:/workspace/GoWin/Demo/1_HDMI/1_HDMI/src/sim/vga_sim_top.v {1 {vlog -work work -vopt -stats=none D:/workspace/GoWin/Demo/1_HDMI/1_HDMI/src/sim/vga_sim_top.v
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module vga_sim_top
+
+Top level modules:
+	vga_sim_top
+
+} {} {}}

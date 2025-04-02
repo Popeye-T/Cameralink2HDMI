@@ -1,0 +1,18 @@
+-d E:\FPGA\GaoYun\cqg_hdmi\cqg_hdmi\impl\gwsynthesis\1_HDMI.vg
+-p GW1N-9C-QFN88-7
+-pn GW1N-LV9QN88C7/I6
+-cst E:\FPGA\GaoYun\cqg_hdmi\cqg_hdmi\src\1_HDMI.cst
+-cfg E:\FPGA\GaoYun\cqg_hdmi\cqg_hdmi\impl\pnr\device.cfg
+-gao_crc 0001010000110000
+-bit
+-tr
+-ph
+-timing
+-cst_error
+-convert_sdp32_36_to_sdp16_18
+-place_option 0
+-route_option 0
+-correct_hold 1
+-route_maxfan 23
+-global_freq 50.000
+-rtl_gao
